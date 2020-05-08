@@ -126,7 +126,7 @@
 <vertex x="1" y="1"/>
 <vertex x="0" y="1"/>
 </polygon>
-<text x="2.25" y="11.25" size="1.016" layer="25" font="vector" ratio="15" align="center">1.0</text>
+<text x="2.5" y="11.25" size="1.016" layer="25" font="vector" ratio="15" rot="R180" align="center">1.0</text>
 <text x="6.75" y="2" size="1.016" layer="26" font="vector" ratio="15" rot="MR0" align="center">ATmega32u4</text>
 <text x="3" y="11.75" size="1.016" layer="30" font="vector" ratio="20" rot="MR0" align="center">NATB</text>
 </plain>
